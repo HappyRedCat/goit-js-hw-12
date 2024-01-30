@@ -92,7 +92,7 @@ button {
 .search-btn,
 .load-more {
   border: 0;
-  border-radius: 8px;
+  border-radius: 1px;
   padding: 8px 16px;
   background: var(--primary-accent-color);
   color: var(--secondary-text-color);
@@ -131,7 +131,7 @@ button {
 
 .card {
   border: 1px solid var(--primary-border-color);
-  border-radius: 2px;
+  border-radius: 1px;
   overflow: hidden;
   transition: transform 400ms cubic-bezier(0.4, 0, 0.2, 1);
   }
