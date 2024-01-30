@@ -185,7 +185,7 @@ button {
     animation: animloader 2s linear infinite;
     }
 
-@keyframes animloader {
+/* @keyframes animloader {
   0% {
     box-shadow: 14px 0 0 -2px, 38px 0 0 -2px, -14px 0 0 -2px, -38px 0 0 -2px;
   }
@@ -201,4 +201,4 @@ button {
   100% {
     box-shadow: 14px 0 0 -2px, 38px 0 0 2px, -14px 0 0 -2px, -38px 0 0 -2px;
   }
-}
+} */
